@@ -1,1 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+psycopg2-binary
+python-dotenv
+redis
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
 
